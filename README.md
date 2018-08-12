@@ -7,3 +7,4 @@ nambah nama orang tapi di tengah
 Santa --menambah 2 nama orang lagi-
 
 nambah commit baru
+nambah 2 commit baru
